@@ -3,7 +3,7 @@ package nanoid
 import (
 	"strings"
 
-	"github.com/Metadiv-Technology-Limited/nanoid/internal/constant"
+	"github.com/Metadiv-Atomic-Engine/nanoid/internal/constant"
 	gonanoid "github.com/matoous/go-nanoid"
 )
 
